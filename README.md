@@ -26,13 +26,13 @@ This is a virtual router implemented by MATLAB. For simplicity, several simplifi
 
    Generator 802.11n packet in time domain. You could uncomment corresponding line in the code to generate *HT-SIG, HT-LTFs,...etc*.
 
-   ![Digital-Comm-802.11n-Router-Simulation](https://github.com/fatandy567/Digital-Comm-802.11n-Router-Simulation/Img1.jpg)
+   ![Digital-Comm-802.11n-Router-Simulation](/Img1.jpg)
 
 3. **Channel.m**
 
    2-ray model and 4-ray model are implemented. Choosing model by adjusting input parameter.
 
-   ![Digital-Comm-802.11n-Router-Simulation](https://github.com/fatandy567/Digital-Comm-802.11n-Router-Simulation/Img2.jpg)
+   ![Digital-Comm-802.11n-Router-Simulation](/Img2.jpg)
 
 4. **AGC.m**
 
@@ -62,7 +62,7 @@ This is a virtual router implemented by MATLAB. For simplicity, several simplifi
 
     Decode the data. Real data bits, the decode result and error bits are displayed.
 
-    ![Digital-Comm-802.11n-Router-Simulation](https://github.com/fatandy567/Digital-Comm-802.11n-Router-Simulation/Img3.JPG)
+    ![Digital-Comm-802.11n-Router-Simulation](/Img3.JPG)
 
 11. **Other Test.m**
 
