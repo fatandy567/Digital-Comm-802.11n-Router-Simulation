@@ -11,7 +11,7 @@ This is a virtual router implemented by MATLAB. For simplicity, several simplifi
 
 1. **System.m**
 
-   The main simulation system, starting with packet generation. You customize your simulation by adjusting *Starttime*, *Endtime* ,*TimeReso* ...parameters. 
+   The main simulation system, starting with packet generation. You can customize your simulation by adjusting *Starttime*, *Endtime* ,*TimeReso* ...parameters. 
 
    For example :
 
